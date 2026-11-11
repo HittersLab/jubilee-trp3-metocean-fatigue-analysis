@@ -133,9 +133,9 @@ To explore the relationship between environmental loading conditions and estimat
 - Developed polynomial regression models using metocean parameters.
 - Compared polynomial regression models of different degrees.
 - Evaluated model performance using training and testing datasets.
-- Applied five-fold cross-validation.
+- Applied five fold cross-validation.
 - Examined model residuals and prediction errors.
-- Developed a four-chart fatigue analysis dashboard.
+- Developed a four chart fatigue analysis dashboard.
 
 ### Machine Learning Approach
 
@@ -184,7 +184,7 @@ The dashboard presents four aspects of the fatigue analysis:
 | Seaborn        | Statistical visualisation                            |
 | Scikit-learn   | Regression modelling and model evaluation            |
 | Git and GitHub | Version control and project documentation            |
-
+                 
 ---
 
 ## Engineering Assumptions and Limitations
